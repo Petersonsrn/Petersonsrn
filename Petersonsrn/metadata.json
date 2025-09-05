@@ -1,0 +1,5 @@
+{
+  "name": "Receita na Hora",
+  "description": "An AI-powered recipe generator that creates delicious recipes based on the ingredients you have on hand. Perfect for quick, easy, and creative meals.",
+  "requestFramePermissions": []
+}
