@@ -1,20 +1,35 @@
+
+# 👨‍💻 Olá, eu sou Peterson Rosário!
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
-# Run and deploy your AI Studio app
+### 🚀 Sobre Mim
+Sou um desenvolvedor apaixonado por **Python** e automação. Meu foco é criar soluções que economizam tempo e sistemas backend robustos.
 
-This contains everything you need to run your app locally.
+- 🔭 Atualmente trabalhando em: **Projetos de Automação Inteligente**
+- 💼 Objetivo: **Vagas de Backend Developer / Engenharia de Software**
+- ⚡ Curiosidade: Eu tenho um bot que gera código para mim.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1htuaQ6X3-HQV3WV7cI6cogv5M5mLhtEL
+---
 
-## Run Locally
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-**Prerequisites:**  Node.js
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petersonsrn&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersonsrn&theme=radical" />
+</div>
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
