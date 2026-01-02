@@ -1,40 +1,71 @@
 
-# 🚀 Peterson Rosario Nogueira
-
-### *Back-end Developer | Python Expert | Automation Master*
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQBc0/giphy.gif" width="100%" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 15px;" />
+  
+  <h1 align="center">👋 Hi, I'm Peterson Rosario Nogueira!</h1>
+  <h3 align="center">🚀 AI Engineer | Python Master | Automation Architect</h3>
+
+  <p align="center">
+    <i>"Transforming caffeine into code, chaos into order, and dreams into digital reality."</i>
+  </p>
+  
+  <div align="center">
+    <a href="https://linkedin.com/in/petersonsrn" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:petersonsrn@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/petersonsrn">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://portfolio.peterson.dev">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
-Olá! Sou um desenvolvedor focado em **construir o futuro** com linhas de código. Minha especialidade é criar sistemas que funcionam sozinhos.
-Se você está vendo este perfil, saiba que parte dele foi gerada e otimizada por **Inteligência Artificial** sob meu comando.
+### 👨‍💻 **About Me**
+I'm a visionary developer passionate about **Artificial Intelligence** and **Autonomous Systems**. I specialize in building bots that code themselves, systems that "think", and architectures that scale infinitely. My flagship project, **Genesis V15**, is currently rewriting its own legacy.
 
-- 🏢 **Empresa**: Automação & IA Solutions
-- 📍 **Local**: Brasil
-- 💼 **Foco**: Python, APIs, Microserviços e Bots.
-
----
-
-### 🛠️ Minha Caixa de Ferramentas
-| Linguagens | Frameworks | Ferramentas |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-FV?style=for-the-badge&logo=python&logoColor=white&color=3776AB) | ![FastAPI](https://img.shields.io/badge/FastAPI-FV?style=for-the-badge&logo=fastapi&logoColor=white&color=009688) | ![Docker](https://img.shields.io/badge/Docker-FV?style=for-the-badge&logo=docker&logoColor=white&color=2496ED) |
-| **JavaScript** | **Django / Flask** | **Git / GitHub Actions** |
+- 🔭 I’m currently working on **Self-Healing AI Agents**
+- 🌱 I’m currently learning **Quantum Cryptography & Neural Rendering**
+- ⚡ Fun fact: **I built an AI that updated this profile automatically.**
 
 ---
 
-### 📈 Estatísticas
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=petersonsrn&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsrn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+### 💻 **Tech Stack**
+
+**Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+**AI & Data Science**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+**Backend & Cloud**  
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+**Tools & DEVOPS**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petersonsrn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsrn&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersonsrn&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Profile automatically updated by <b>Antigravity AI Script</b>.</sub>
+  <sub>Generated by <b>Genesis AI V15</b>.</sub>
+  <br>
+  <img src="https://media.giphy.com/media/Result/giphy.gif" height="50" />
 </div>
